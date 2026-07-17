@@ -17,5 +17,3 @@ GiveRep
 GiveRep
 
 GiveRep
-iveRepi
-ijkjlpiveRep
